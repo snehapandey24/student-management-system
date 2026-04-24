@@ -1,6 +1,6 @@
 # Student Management System
 
-A beginner Python project to manage student records.
+A python-based beginner project to manage student records like adding,viewing,searching and deleting students.
 
 ## Features
 - Add student
