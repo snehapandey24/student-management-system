@@ -18,3 +18,5 @@ Improved understanding of:
 - dictionaries
 - lists
 - conditions
+## project output
+![Project Output](output.png)
